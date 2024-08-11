@@ -1,0 +1,7 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Facade_pattern\Facade_pattern\bin\Debug\Facade_pattern.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Facade_pattern\Facade_pattern\bin\Debug\Facade_pattern.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Facade_pattern\Facade_pattern\bin\Debug\Facade_pattern.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Facade_pattern\Facade_pattern\obj\Debug\Facade_pattern.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Facade_pattern\Facade_pattern\obj\Debug\Facade_pattern.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Facade_pattern\Facade_pattern\obj\Debug\Facade_pattern.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Facade_pattern\Facade_pattern\obj\Debug\Facade_pattern.pdb
